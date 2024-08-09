@@ -1,0 +1,3 @@
+- Command to get docker secrets setup
+- when ran it checks for Dockerfile or takes a --d custom dockerfile path which can be relative or absolute
+- context is set as current context

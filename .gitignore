@@ -1,0 +1,4 @@
+kaniko-deploy
+kaniko-secret.json
+debug.yaml
+.vscode/
